@@ -243,7 +243,7 @@ See which Projects have been shipping the most in the NEAR Ecosystem in the past
 
 * [Telegram Notifications](https://twitter.com/leap\_near/status/1615753039914369026) for all wallet activity
 
-\*\*[FluxusFi](https://twitter.com/FluxusFi) \*\*launches [VISION](https://app.fluxus.finance/) to track DeFI & NFT Portfolio on NEAR
+****[**FluxusFi**](https://twitter.com/FluxusFi) launches [VISION](https://app.fluxus.finance/) to track DeFI & NFT Portfolio on NEAR
 
 ### dApps
 
@@ -259,7 +259,7 @@ Test out the following applications in their Road to mainnet.
 * NiftyRent (mintbase grant recipient releases its rentable NFT marketplace) launches [testnet dApp](https://testnet.niftyrent.xyz/)
 * Mintickt releases its ticketing platform for event organizers with redemption for in event items on [testnet](https://testnet.mintickt.com)
 * Veax DEX launches on [Testnet](https://testnet.veax.com/)
-* \*\*Popula \*\*[public testnet released](https://testnet.popula.io/) with [token gated content](https://testnet.popula.io/communities), [community rankings](https://testnet.popula.io/community-list), See[ testnet contract stats here](https://explorer.testnet.near.org/accounts/app.beepopula.testnet)
+* **Popula** [public testnet released](https://testnet.popula.io/) with [token gated content](https://testnet.popula.io/communities), [community rankings](https://testnet.popula.io/community-list), See[ testnet contract stats here](https://explorer.testnet.near.org/accounts/app.beepopula.testnet)
 
 ***
 
@@ -337,6 +337,10 @@ BanyanUS ([website](https://www.banyan.gg/)) ([twitter](twitter.com/banyanus/)) 
 
 [NEARWeek](https://nearweek.com/) ([website](https://nearweek.com/)) ([twitter](https://twitter.com/NEARWEEK)) ([telegram](https://t.me/nearweek))
 
-_Missed anything?_ Message on telegram @codegoon and send a message, put in our respective teams Banya group chat or builder group chat, or reply tweet !submit @NEARWEEKBot to automate news submissions to [NEARWeek](https://nearweek.com/).
+_Missed anything?_&#x20;
+
+Make a PR here [https://github.com/NEARBuilders/NEARSletter/](https://github.com/NEARBuilders/NEARSletter/)
+
+OR Message on telegram @codegoon and send a message, put in our respective teams Banyan group chat or builder group chat, or reply tweet !submit @NEARWEEKBot to automate news submissions to [NEARWeek](https://nearweek.com/).
 
 From, (🔌,３)
